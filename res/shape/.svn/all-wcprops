@@ -1,29 +1,35 @@
 K 25
 svn:wc:ra_dav:version-url
 V 38
-/svn/lijw/!svn/ver/11/ticket/res/shape
+/svn/lijw/!svn/ver/498/chain/res/shape
 END
-rred.png
+path_square.png
 K 25
 svn:wc:ra_dav:version-url
-V 47
-/svn/lijw/!svn/ver/11/ticket/res/shape/rred.png
+V 54
+/svn/lijw/!svn/ver/498/chain/res/shape/path_square.png
 END
-sred.png
+corner_acute.png
 K 25
 svn:wc:ra_dav:version-url
-V 47
-/svn/lijw/!svn/ver/11/ticket/res/shape/sred.png
+V 55
+/svn/lijw/!svn/ver/498/chain/res/shape/corner_acute.png
 END
-curly.png
+corner_obtuse.png
 K 25
 svn:wc:ra_dav:version-url
-V 48
-/svn/lijw/!svn/ver/11/ticket/res/shape/curly.png
+V 56
+/svn/lijw/!svn/ver/498/chain/res/shape/corner_obtuse.png
 END
-straight.png
+corner_3.png
 K 25
 svn:wc:ra_dav:version-url
 V 51
-/svn/lijw/!svn/ver/11/ticket/res/shape/straight.png
+/svn/lijw/!svn/ver/498/chain/res/shape/corner_3.png
+END
+corner_4.png
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/lijw/!svn/ver/498/chain/res/shape/corner_4.png
 END
