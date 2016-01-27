@@ -325,11 +325,13 @@
                 <file name="src/gameData/Constant.js"/>
                 <file name="src/gameData/MapData.js"/>
                 <file name="src/gameData/ChainData.js"/>
+                <file name="src/gameData/PointerData.js"/>
+                <file name="src/gameData/PropData.js"/>
                 <file name="src/app.js"/>
                 <file name="src/Ball.js"/>
                 <file name="src/ControlMoveLayer.js"/>
                 <file name="src/fss.js"/>
-                <file name="src/LevelMap.js"/>
+                <file name="src/MapLayer.js"/>
                 <file name="src/mapEditorFiles/MapEditLayer.js"/>
                 <file name="src/mapEditorFiles/SpaceLayer.js"/>
                 <file name="src/mapEditorFiles/InputLayer.js"/>
