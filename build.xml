@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<project name="Javascript compress project" basedir="/Users/lit/Documents/IDEDocuments/Test_3-chipmunk" default="compile">
+<project name="Javascript compress project" basedir="/Users/lit/Documents/IDEDocuments/Test_4-buildingBlocks" default="compile">
 
     <taskdef name="jscomp" classname="com.google.javascript.jscomp.ant.CompileTask"
              classpath="/Applications/Cocos/frameworks/cocos2d-x-3.8/tools/cocos2d-console/plugins/project_compile/build_web/bin/compiler-1.7.jar"/>
@@ -8,11 +8,11 @@
         <jscomp compilationLevel="simple" 
                 warning="quiet"
                 debug="false" 
-                output="/Users/lit/Documents/IDEDocuments/Test_3-chipmunk/publish/html5/game.min.js"
+                output="/Users/lit/Documents/IDEDocuments/Test_4-buildingBlocks/publish/html5/game.min.js"
                 languagein="ECMASCRIPT5"
                 
                 >
-            <sources dir="/Users/lit/Documents/IDEDocuments/Test_3-chipmunk/frameworks/cocos2d-html5">
+            <sources dir="/Users/lit/Documents/IDEDocuments/Test_4-buildingBlocks/frameworks/cocos2d-html5">
                 <file name="CCBoot.js"/>
                 <file name="CCDebugger.js"/>
                 <file name="cocos2d/core/utils/BinaryLoader.js"/>
@@ -333,6 +333,7 @@
                 <file name="src/fss.js"/>
                 <file name="src/MapLayer.js"/>
                 <file name="src/mapEditorFiles/MapEditLayer.js"/>
+                <file name="src/mapEditorFiles/LineEditLayer.js"/>
                 <file name="src/mapEditorFiles/SpaceLayer.js"/>
                 <file name="src/mapEditorFiles/InputLayer.js"/>
                 <file name="src/mapEditorFiles/StaticShape.js"/>
